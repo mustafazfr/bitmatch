@@ -1,0 +1,6 @@
+Learn your local IP address, and in mobile application, go to main.dart and change the value of baseUrl with your IP address.
+
+Go to the backend directory in terminal, and use 
+python3 -m uvicorn api:app --host 0.0.0.0 --port 8000  command.
+
+Run the mobile application via your mobile phone.

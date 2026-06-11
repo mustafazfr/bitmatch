@@ -1,0 +1,7 @@
+eacc76d (HEAD -> main, origin/main) preprocess method updated
+f28a925 Trained with medium model,the PZ/PH problem is solved.
+3dbf23d mobile application developed with flutter
+9fcb974 preprocessing added for classifier input
+8df8d99 PZ screws added, model trained again
+d359207 Models developed
+0cd9918 initial

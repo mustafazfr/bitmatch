@@ -1,0 +1,31 @@
+# OS / cache
+.DS_Store
+__pycache__/
+*.pyc
+
+# Datasets (too large for GitHub — see README)
+WDSD/
+wdsd_yolo/
+cls_data/
+enhanced_data/
+crop_images/
+my_yolo/
+mytest/
+real_world_test/
+BITMATCH/datasets/
+
+# Training runs (large)
+runs/
+runs_det/
+
+# Pretrained base weights (downloadable from Ultralytics)
+/yolo*.pt
+
+# Flutter build artifacts
+**/build/
+**/.dart_tool/
+**/.idea/
+*.iml
+**/ios/Pods/
+**/ios/.symlinks/
+**/android/.gradle/
